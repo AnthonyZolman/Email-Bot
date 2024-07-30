@@ -1,0 +1,21 @@
+===========================================================
+                    DISCLAIMER OF LIABILITY
+===========================================================
+
+THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL USE ONLY. BY USING THIS SOFTWARE, YOU AGREE TO THE FOLLOWING TERMS:
+
+1. **Educational Purpose**: This software is intended for educational and learning purposes. It demonstrates concepts and techniques related to email automation and social engineering.
+
+2. **No Endorsement**: The author does not endorse or support any illegal activities. If you engage in any illegal activity using this software, the author bears no responsibility.
+
+3. **Ethical Use**: Use this software responsibly and ethically. Do not misuse it to harm individuals, organizations, or violate privacy rights.
+
+4. **No Warranty**: This software is provided "as is," without any warranty or guarantee of functionality. The author makes no representations regarding its accuracy, reliability, or suitability for any purpose.
+
+5. **Security Risks**: Be aware that using automated email bots can have security risks. Always obtain proper permissions before sending emails to others.
+
+6. **Legal Compliance**: Ensure compliance with local, national, and international laws and regulations when using this software.
+
+7. **Limitation of Liability**: The author shall not be liable for any damages, losses, or legal consequences arising from the use of this software.
+
+===========================================================
